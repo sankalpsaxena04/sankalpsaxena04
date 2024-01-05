@@ -1,21 +1,29 @@
-### Hi there 👋
+<body style="font-family: 'Arial', sans-serif; line-height: 1.6; margin: 20px;">
 
-<!--
-**sankalpsaxena04/sankalpsaxena04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1 style="color: #0073e6;">Hello there! 👋</h1>
+<h2>About Me:</h2> 
+🔭 I’m currently working on Android Development
 
-Here are some ideas to get you started:
+🌱 I’m currently learning JetPack Compose, Ktor<br>
+📫 I'm a 1⭐ programmer on CodeChef
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: sankalpsaxena2004@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently working on Android Development
-- 🌱 I’m currently learning Jetpack Compose, Ktor
-- 📫 How to reach me: sankalpsaxena2004@gmail.com
+<h2 style="color: #333;">Skills and Technologies:</h2>
+    <ul>
+        <li>Kotlin</li>
+        <li>Java</li>
+        <li>C</li>
+        <li>Android Development</li>
+        <li>Jetpack Compose</li>
+        <li>Ktor</li>
+        <li>Firebase</li>
+        <li>Room Database</li>
+        <li>Retrofit</li>
+        <li>MVVM Architecture</li>
+        <li>Coroutines</li>
+    </ul>
+    <h2 style="color: #333;">Connect with Me:</h2>
+        <a href="https://www.instagram.com/sankalpsaxena09/" target="_blank" style="text-decoration: none; color: #fff;"><img height="32px" src="https://www.pngkey.com/png/full/3-31957_instagram-logo-instagram-logo-with-words.png" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://in.linkedin.com/in/sankalp-saxena-424777270" target="_blank" style="text-decoration: none; color: #fff;"><img height="32px" bg-color="#ffffff"src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png" alt="Linkedin"></a>
+    <p style="color: #555;">Feel free to reach out if you have any questions, want to collaborate, or just chat about Android development!</p>
 
-### Connect me:
-[instagram.com/sankalpsaxena9](https://www.instagram.com/sankalpsaxena9/)<br>
-[li](https://in.linkedin.com/in/sankalp-saxena-424777270)https://in.linkedin.com/in/sankalp-saxena-424777270
+</body>
