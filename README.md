@@ -22,7 +22,7 @@
         <li>Coroutines</li>
     </ul>
     <h2 style="color: #333;">Connect with Me:</h2>
-        <a href="https://www.instagram.com/sankalpsaxena09/" target="_blank" style="text-decoration: none; color: #fff;"><img height="32px" src="https://www.pngkey.com/png/full/3-31957_instagram-logo-instagram-logo-with-words.png" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.instagram.com/sankalpsaxena9/" target="_blank" style="text-decoration: none; color: #fff;"><img height="32px" src="https://www.pngkey.com/png/full/3-31957_instagram-logo-instagram-logo-with-words.png" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;
     <a href="https://in.linkedin.com/in/sankalp-saxena-424777270" target="_blank" style="text-decoration: none; color: #fff;"><img height="32px" bg-color="#ffffff"src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png" alt="Linkedin"></a>
     <p style="color: #555;">Feel free to reach out if you have any questions, want to collaborate, or just chat about Android development!</p>
 
