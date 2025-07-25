@@ -2,10 +2,9 @@
 
   <h1 style="color: #0073e6;">Hello there! 👋</h1>
 <h2>About Me:</h2> 
-🔭 I’m currently working on Android Development
-
-🌱 I’m currently learning JetPack Compose, Ktor<br>
-📫 I'm a 1⭐ programmer on CodeChef
+🔭 Android Developer<br>
+🌱 Working of SpringBoot(Kotlin) Ktor<br>
+📫 Java Programmer
 
 <h2 style="color: #333;">Skills and Technologies:</h2>
     <ul>
@@ -15,6 +14,7 @@
         <li>Android Development</li>
         <li>Jetpack Compose</li>
         <li>Ktor</li>
+        <li>FCM</li>
         <li>Firebase</li>
         <li>Room Database</li>
         <li>Retrofit</li>
